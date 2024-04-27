@@ -31,7 +31,7 @@ const Upload = () => {
             data: formData,
             responseType: 'arraybuffer',
             headers: {
-              'X-Api-Key': 'dBPSG5jXgTtfTFj5LvXU5XZT',
+              'X-Api-Key': 'API_KEY',
               'Content-Type': 'multipart/form-data',
             },
           })
